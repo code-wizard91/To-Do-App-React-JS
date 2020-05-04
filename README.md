@@ -1,6 +1,7 @@
 # React To-Do App
 
-Built using React, Redux, leveraging styled-components, PaperCSS, Service Worker tools. Data is Persisted using localStorage.
+- Simple To-Do App built using React, Redux, PaperCSS.
+- Data is Persisted using localStorage.
 
 ## To Run
 
