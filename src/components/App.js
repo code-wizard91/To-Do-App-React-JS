@@ -21,7 +21,7 @@ class App extends Component {
     return (
       <Container className="row flex-center flex-middle">
         <Paper className="border border-primary padding-large margin-large no-responsive">
-          <h3 className="margin-small">PaperTodo</h3>
+          <h3 className="margin-small">Todo-List</h3>
           <AddTodo />
           <TodoList />
         </Paper>
