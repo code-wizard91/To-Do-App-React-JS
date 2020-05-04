@@ -21,7 +21,6 @@ metadata:
     app: nginx
 spec:
   selector:
-  replicas: 3
     matchLabels:
       app: nginx
   template:
