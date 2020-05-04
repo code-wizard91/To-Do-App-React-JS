@@ -1,6 +1,6 @@
 {
-  "short_name": "PaperTodo",
-  "name": "PaperTodo",
+  "short_name": "Todo",
+  "name": "Todo",
   "description": "Just another todo app",
   "icons": [
     {
